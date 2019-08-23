@@ -321,6 +321,22 @@
 
     <!--Tier Roll Chance + Pool Size-->
     <s:String x:Key="Charts_Title" xml:space="preserve">Tier Roll Chance + Pool Size</s:String>
+    <s:String x:Key="Charts_Title1" xml:space="preserve">July 1st 2019</s:String>
+    <s:String x:Key="Charts_Title2" xml:space="preserve">Max</s:String>
+    <s:String x:Key="Charts_Title3" xml:space="preserve">Leve 1</s:String>
+    <s:String x:Key="Charts_Title4" xml:space="preserve">Leve 2</s:String>
+    <s:String x:Key="Charts_Title5" xml:space="preserve">Leve 3</s:String>
+    <s:String x:Key="Charts_Title6" xml:space="preserve">Leve 4</s:String>
+    <s:String x:Key="Charts_Title7" xml:space="preserve">Leve 5</s:String>
+    <s:String x:Key="Charts_Title8" xml:space="preserve">Leve 6</s:String>
+    <s:String x:Key="Charts_Title9" xml:space="preserve">Leve 7</s:String>
+    <s:String x:Key="Charts_Title10" xml:space="preserve">Leve 8</s:String>
+    <s:String x:Key="Charts_Title11" xml:space="preserve">Leve 9</s:String>
+    <s:String x:Key="Charts_Title12" xml:space="preserve">39</s:String>
+    <s:String x:Key="Charts_Title13" xml:space="preserve">26</s:String>
+    <s:String x:Key="Charts_Title14" xml:space="preserve">21</s:String>
+    <s:String x:Key="Charts_Title15" xml:space="preserve">13</s:String>
+    <s:String x:Key="Charts_Title16" xml:space="preserve">10</s:String>
 
   
     <!--/////////////////-->

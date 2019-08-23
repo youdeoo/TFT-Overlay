@@ -89,7 +89,7 @@ namespace TFT_Overlay
                         )
                     );
                 }
-                catch (System.Threading.Tasks.TaskCanceledException errMsg)
+                catch (System.Threading.Tasks.TaskCanceledException )
                 {
                     tTop.Stop();
                 }

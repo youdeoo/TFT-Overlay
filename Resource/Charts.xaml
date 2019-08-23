@@ -43,60 +43,60 @@
                 <Border BorderBrush="LightGoldenrodYellow" BorderThickness="0 0 0 1" Grid.Column="0" Grid.Row="9" Grid.ColumnSpan="6" />
 
                 <TextBlock Text="{DynamicResource Charts_Title}" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="7" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="LightGoldenrodYellow">
-                    <Run Text="  (July 1st 2019)" FontSize="12" Foreground="#09cae5"/>
+                    <Run Text="{DynamicResource Charts_Title1}" FontSize="12" Foreground="#09cae5"/>
                 </TextBlock>
 
-                <TextBlock Text="Max" Grid.Row="1" Grid.Column="0" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LightGoldenrodYellow"></TextBlock>
-                <TextBlock Text="39" Grid.Row="1" Grid.Column="1" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"></TextBlock>
-                <TextBlock Text="26" Grid.Row="1" Grid.Column="2" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LawnGreen"></TextBlock>
-                <TextBlock Text="21" Grid.Row="1" Grid.Column="3" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Aqua"></TextBlock>
-                <TextBlock Text="13" Grid.Row="1" Grid.Column="4" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Magenta"></TextBlock>
-                <TextBlock Text="10" Grid.Row="1" Grid.Column="5" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Orange"></TextBlock>
+                <TextBlock Text="{DynamicResource Charts_Title2}" Grid.Row="1" Grid.Column="0" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LightGoldenrodYellow"></TextBlock>
+                <TextBlock Text="{DynamicResource Charts_Title12}" Grid.Row="1" Grid.Column="1" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"></TextBlock>
+                <TextBlock Text="{DynamicResource Charts_Title13}" Grid.Row="1" Grid.Column="2" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LawnGreen"></TextBlock>
+                <TextBlock Text="{DynamicResource Charts_Title14}" Grid.Row="1" Grid.Column="3" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Aqua"></TextBlock>
+                <TextBlock Text="{DynamicResource Charts_Title15}" Grid.Row="1" Grid.Column="4" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Magenta"></TextBlock>
+                <TextBlock Text="{DynamicResource Charts_Title16}" Grid.Row="1" Grid.Column="5" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Orange"></TextBlock>
 
-                <TextBlock Text="Level 1" Grid.Row="2" Grid.Column="0" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LightGoldenrodYellow"></TextBlock>
+                <TextBlock Text="{DynamicResource Charts_Title3}" Grid.Row="2" Grid.Column="0" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LightGoldenrodYellow"></TextBlock>
                 <TextBlock Text="100%" Grid.Row="2" Grid.Column="1" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"></TextBlock>
 
-                <TextBlock Text="Level 2" Grid.Row="3" Grid.Column="0" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LightGoldenrodYellow"></TextBlock>
+                <TextBlock Text="{DynamicResource Charts_Title4}" Grid.Row="3" Grid.Column="0" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LightGoldenrodYellow"></TextBlock>
                 <TextBlock Text="100%" Grid.Row="3" Grid.Column="1" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"></TextBlock>
 
-                <TextBlock Text="Level 3" Grid.Row="4" Grid.Column="0" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LightGoldenrodYellow"></TextBlock>
+                <TextBlock Text="{DynamicResource Charts_Title5}" Grid.Row="4" Grid.Column="0" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LightGoldenrodYellow"></TextBlock>
                 <TextBlock Text="65%" Grid.Row="4" Grid.Column="1" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"></TextBlock>
                 <TextBlock Text="30%" Grid.Row="4" Grid.Column="2" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LawnGreen"></TextBlock>
                 <TextBlock Text="5%" Grid.Row="4" Grid.Column="3" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Aqua"></TextBlock>
 
-                <TextBlock Text="Level 4" Grid.Row="5" Grid.Column="0" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LightGoldenrodYellow"></TextBlock>
+                <TextBlock Text="{DynamicResource Charts_Title6}" Grid.Row="5" Grid.Column="0" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LightGoldenrodYellow"></TextBlock>
                 <TextBlock Text="50%" Grid.Row="5" Grid.Column="1" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"></TextBlock>
                 <TextBlock Text="35%" Grid.Row="5" Grid.Column="2" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LawnGreen"></TextBlock>
                 <TextBlock Text="15%" Grid.Row="5" Grid.Column="3" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Aqua"></TextBlock>
 
-                <TextBlock Text="Level 5" Grid.Row="6" Grid.Column="0" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LightGoldenrodYellow"></TextBlock>
+                <TextBlock Text="{DynamicResource Charts_Title7}" Grid.Row="6" Grid.Column="0" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LightGoldenrodYellow"></TextBlock>
                 <TextBlock Text="37%" Grid.Row="6" Grid.Column="1" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"></TextBlock>
                 <TextBlock Text="35%" Grid.Row="6" Grid.Column="2" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LawnGreen"></TextBlock>
                 <TextBlock Text="25%" Grid.Row="6" Grid.Column="3" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Aqua"></TextBlock>
                 <TextBlock Text="3%" Grid.Row="6" Grid.Column="4" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Magenta"></TextBlock>
 
-                <TextBlock Text="Level 6" Grid.Row="7" Grid.Column="0" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LightGoldenrodYellow"></TextBlock>
+                <TextBlock Text="{DynamicResource Charts_Title8}" Grid.Row="7" Grid.Column="0" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LightGoldenrodYellow"></TextBlock>
                 <TextBlock Text="24.5%" Grid.Row="7" Grid.Column="1" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"></TextBlock>
                 <TextBlock Text="35%" Grid.Row="7" Grid.Column="2" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LawnGreen"></TextBlock>
                 <TextBlock Text="30%" Grid.Row="7" Grid.Column="3" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Aqua"></TextBlock>
                 <TextBlock Text="10%" Grid.Row="7" Grid.Column="4" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Magenta"></TextBlock>
-                <TextBlock Text=".5%" Grid.Row="7" Grid.Column="5" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Orange"></TextBlock>
+                <TextBlock Text="0.5%" Grid.Row="7" Grid.Column="5" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Orange"></TextBlock>
 
-                <TextBlock Text="Level 7" Grid.Row="8" Grid.Column="0" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LightGoldenrodYellow"></TextBlock>
+                <TextBlock Text="{DynamicResource Charts_Title9}" Grid.Row="8" Grid.Column="0" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LightGoldenrodYellow"></TextBlock>
                 <TextBlock Text="20%" Grid.Row="8" Grid.Column="1" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"></TextBlock>
                 <TextBlock Text="30%" Grid.Row="8" Grid.Column="2" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LawnGreen"></TextBlock>
                 <TextBlock Text="33%" Grid.Row="8" Grid.Column="3" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Aqua"></TextBlock>
                 <TextBlock Text="15%" Grid.Row="8" Grid.Column="4" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Magenta"></TextBlock>
                 <TextBlock Text="2%" Grid.Row="8" Grid.Column="5" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Orange"></TextBlock>
 
-                <TextBlock Text="Level 8" Grid.Row="9" Grid.Column="0" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LightGoldenrodYellow"></TextBlock>
+                <TextBlock Text="{DynamicResource Charts_Title10}" Grid.Row="9" Grid.Column="0" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LightGoldenrodYellow"></TextBlock>
                 <TextBlock Text="15%" Grid.Row="9" Grid.Column="1" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"></TextBlock>
                 <TextBlock Text="25%" Grid.Row="9" Grid.Column="2" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LawnGreen"></TextBlock>
                 <TextBlock Text="35%" Grid.Row="9" Grid.Column="3" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Aqua"></TextBlock>
                 <TextBlock Text="20%" Grid.Row="9" Grid.Column="4" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Magenta"></TextBlock>
                 <TextBlock Text="5%" Grid.Row="9" Grid.Column="5" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Orange"></TextBlock>
 
-                <TextBlock Text="Level 9" Grid.Row="10" Grid.Column="0" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LightGoldenrodYellow"></TextBlock>
+                <TextBlock Text="{DynamicResource Charts_Title11}" Grid.Row="10" Grid.Column="0" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LightGoldenrodYellow"></TextBlock>
                 <TextBlock Text="10%" Grid.Row="10" Grid.Column="1" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White"></TextBlock>
                 <TextBlock Text="15%" Grid.Row="10" Grid.Column="2" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LawnGreen"></TextBlock>
                 <TextBlock Text="35%" Grid.Row="10" Grid.Column="3" FontSize="12" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Aqua"></TextBlock>

@@ -317,7 +317,24 @@
     <!--/////////////////-->
 
     <!--Tier Roll Chance + Pool Size-->
-    <s:String x:Key="Charts_Title" xml:space="preserve">每级随机英雄几率 + 英雄随机池大小</s:String>
+    <s:String x:Key="Charts_Title" xml:space="preserve">每级随机英雄几率 + 英雄卡池数量</s:String>
+    <s:String x:Key="Charts_Title1" xml:space="preserve">2019年7月1日</s:String>
+    <s:String x:Key="Charts_Title2" xml:space="preserve">等级</s:String>
+    <s:String x:Key="Charts_Title3" xml:space="preserve">1级</s:String>
+    <s:String x:Key="Charts_Title4" xml:space="preserve">2级</s:String>
+    <s:String x:Key="Charts_Title5" xml:space="preserve">3级</s:String>
+    <s:String x:Key="Charts_Title6" xml:space="preserve">4级</s:String>
+    <s:String x:Key="Charts_Title7" xml:space="preserve">5级</s:String>
+    <s:String x:Key="Charts_Title8" xml:space="preserve">6级</s:String>
+    <s:String x:Key="Charts_Title9" xml:space="preserve">7级</s:String>
+    <s:String x:Key="Charts_Title10" xml:space="preserve">8级</s:String>
+    <s:String x:Key="Charts_Title11" xml:space="preserve">9级</s:String>
+    <s:String x:Key="Charts_Title12" xml:space="preserve">1费39张</s:String>
+    <s:String x:Key="Charts_Title13" xml:space="preserve">2费26张</s:String>
+    <s:String x:Key="Charts_Title14" xml:space="preserve">3费21张</s:String>
+    <s:String x:Key="Charts_Title15" xml:space="preserve">4费13张</s:String>
+    <s:String x:Key="Charts_Title16" xml:space="preserve">5费10张</s:String>
+
 
     <!--Player Damage Formula-->
     <s:String x:Key="Charts_Damage" xml:space="preserve">玩家伤害公式</s:String>
