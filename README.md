@@ -18,6 +18,12 @@
   -  [Click Here for instructions](https://github.com/Just2good/TFT-Overlay/blob/master/Localization.md)
 
 ## Version History  
+- **8.23.2019**    
+  - [2.0.5](https://github.com/Just2good/TFT-Overlay/releases/tag/V2.0.5)  
+     - carousel.png Consistent with other icons
+	 - riversprite.png Background transparency
+	 - ch-ZN Card Pool Modified to Chinese
+	 
 - **8.01.2019**    
   - [2.0.5](https://github.com/Just2good/TFT-Overlay/releases/tag/V2.0.5)  
      - Updated ch-ZN
